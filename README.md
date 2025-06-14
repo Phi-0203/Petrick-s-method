@@ -1,5 +1,5 @@
 # Petrick-s-method
-支援 Petrick's 方法的核心演算法，
+支援 Petrick's method 的核心演算法，
 能處理單一布林函數的最小化、理多個布林函數的同步最小化
 並找出共享基本質項後總成本最低的 SOP 組合。  
 使用 Python 語言與 SymPy 函式庫進行符號運算，確保結果的正確性。 
