@@ -4,7 +4,7 @@
 並找出共享基本質項後總成本最低的 SOP 組合。  
 使用 Python 語言與 SymPy 函式庫進行符號運算，確保結果的正確性。 
 命令列介面 (CLI)，操作簡單，直觀輸入輸出。
-exe 檔可在 ![這裡下載](https://drive.google.com/file/d/1Fzu77bznKgMfzZHiTulD3j-THxei-DYz/view?usp=sharing)
+exe 檔可在 [這裡下載](https://drive.google.com/file/d/1Fzu77bznKgMfzZHiTulD3j-THxei-DYz/view?usp=sharing)
 
 ## 如何執行
 ### 環境需求：
